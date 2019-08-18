@@ -1,0 +1,35 @@
+2019-06-26 20:34:48,964 	SERVER               Starting the server
+2019-06-26 20:35:38,347 	SERVER               Recognition request: from 127.0.0.1 at: 2019-06-26 20:35:38
+2019-06-26 20:35:38,359 	SERVER               got the json
+2019-06-26 20:35:38,360 	SERVER               worker details -> pinCode: 12345, workerId: -1, id: -1, name: , role: , department: , manager permissions: False, email: 
+2019-06-26 20:35:38,360 	SERVER               Converted from json to object(worker)
+2019-06-26 20:35:38,637 	SERVER               RECONIZING
+2019-06-26 20:35:38,770 	SERVER               id: 41, conf: 831
+2019-06-26 20:35:38,772 	SERVER               id: 41, conf: 927
+2019-06-26 20:35:38,773 	SERVER               id: 41, conf: 820
+2019-06-26 20:35:38,775 	SERVER               id: 41, conf: 900
+2019-06-26 20:35:38,777 	SERVER               id: 41, conf: 820
+2019-06-26 20:35:38,778 	SERVER               id: 41, conf: 815
+2019-06-26 20:35:38,780 	SERVER               id: 41, conf: 850
+2019-06-26 20:35:38,781 	SERVER               id: 41, conf: 892
+2019-06-26 20:35:38,782 	SERVER               id: 41, conf: 847
+2019-06-26 20:35:38,783 	SERVER               id: 41, conf: 883
+2019-06-26 20:35:38,784 	SERVER               Recognized id: 0
+2019-06-26 20:35:38,784 	SERVER               Number of times recognized: 0
+2019-06-26 20:36:39,420 	SERVER               Recognition request: from 127.0.0.1 at: 2019-06-26 20:36:39
+2019-06-26 20:36:39,430 	SERVER               got the json
+2019-06-26 20:36:39,430 	SERVER               worker details -> pinCode: 124215, workerId: -1, id: -1, name: , role: , department: , manager permissions: False, email: 
+2019-06-26 20:36:39,431 	SERVER               Converted from json to object(worker)
+2019-06-26 20:36:39,470 	SERVER               RECONIZING
+2019-06-26 20:36:39,471 	SERVER               id: 41, conf: 799
+2019-06-26 20:36:39,472 	SERVER               id: 41, conf: 709
+2019-06-26 20:36:39,473 	SERVER               id: 41, conf: 753
+2019-06-26 20:36:39,474 	SERVER               id: 41, conf: 872
+2019-06-26 20:36:39,475 	SERVER               id: 41, conf: 749
+2019-06-26 20:36:39,477 	SERVER               id: 41, conf: 770
+2019-06-26 20:36:39,478 	SERVER               id: 41, conf: 808
+2019-06-26 20:36:39,479 	SERVER               id: 41, conf: 766
+2019-06-26 20:36:39,480 	SERVER               id: 41, conf: 691
+2019-06-26 20:36:39,480 	SERVER               id: 41, conf: 700
+2019-06-26 20:36:39,481 	SERVER               Recognized id: 0
+2019-06-26 20:36:39,481 	SERVER               Number of times recognized: 0
